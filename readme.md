@@ -10,8 +10,8 @@ A series of jupyter notebook guides to training supervised ML models.
 - Exploratory Data Analysis
 
 ##### Models Covered
-- Logistic Regression
 - Linear Regression
+- Logistic Regression
 - Decision Tree
 - SVM
 - Naive Bayes
